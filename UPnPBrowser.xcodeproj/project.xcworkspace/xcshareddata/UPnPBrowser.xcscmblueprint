@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4C5E4813DA335AE75CB1159DF314F67589065127",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "bfd3be0d-9f21-0410-925f-e30e9767a5cc++8724" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "bfd3be0d-9f21-0410-925f-e30e9767a5cc++8724" : 0,
+    "4C5E4813DA335AE75CB1159DF314F67589065127" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3D41746D-A1D7-45B7-96FD-3BBEF0A418A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "bfd3be0d-9f21-0410-925f-e30e9767a5cc++8724" : "UPnPBrowser-for-iPhone\/Classes\/Cyberlink\/include\/",
+    "4C5E4813DA335AE75CB1159DF314F67589065127" : "UPnPBrowser-for-iPhone\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UPnPBrowser",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UPnPBrowser.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:oppiansteve\/UPnPBrowser-for-iPhone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C5E4813DA335AE75CB1159DF314F67589065127"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/clinkc.svn.sourceforge.net\/svnroot\/clinkc",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "bfd3be0d-9f21-0410-925f-e30e9767a5cc++8724"
+    }
+  ]
+}

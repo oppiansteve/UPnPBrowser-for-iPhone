@@ -6,6 +6,8 @@
 //  Copyright Oppian Systems Ltd 2009. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
+
 @interface UPnPBrowserAppDelegate : NSObject <UIApplicationDelegate> {
     
     UIWindow *window;
